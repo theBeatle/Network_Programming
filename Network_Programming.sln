@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SyncSockets_Listener", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SyncSocket_Client", "02_SyncSocket_Client\02_SyncSocket_Client.csproj", "{C518D03A-86A4-4F1C-BF16-CD61204C707E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_AsyncSockets_Server", "03_AsyncSockets_Server\03_AsyncSockets_Server.csproj", "{EBB66E1D-EEA6-4BE9-9140-6991D3035E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_AsyncSockets_Client", "04_AsyncSockets_Client\04_AsyncSockets_Client.csproj", "{E3CFD33B-489E-4F61-BA9B-E55C2395891E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C518D03A-86A4-4F1C-BF16-CD61204C707E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C518D03A-86A4-4F1C-BF16-CD61204C707E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C518D03A-86A4-4F1C-BF16-CD61204C707E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB66E1D-EEA6-4BE9-9140-6991D3035E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB66E1D-EEA6-4BE9-9140-6991D3035E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB66E1D-EEA6-4BE9-9140-6991D3035E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB66E1D-EEA6-4BE9-9140-6991D3035E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CFD33B-489E-4F61-BA9B-E55C2395891E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CFD33B-489E-4F61-BA9B-E55C2395891E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CFD33B-489E-4F61-BA9B-E55C2395891E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CFD33B-489E-4F61-BA9B-E55C2395891E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
