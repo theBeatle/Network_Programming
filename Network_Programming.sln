@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_UDP_Server", "05_UDP_Ser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_UDP_Client", "06_UDP_Client\06_UDP_Client.csproj", "{CC2394CE-74BB-4AE1-A5E6-459C860182E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_FTP_client", "07_FTP_client\07_FTP_client.csproj", "{0AD98E15-291A-4D6F-BB76-4442044B5BB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{CC2394CE-74BB-4AE1-A5E6-459C860182E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC2394CE-74BB-4AE1-A5E6-459C860182E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC2394CE-74BB-4AE1-A5E6-459C860182E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD98E15-291A-4D6F-BB76-4442044B5BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD98E15-291A-4D6F-BB76-4442044B5BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD98E15-291A-4D6F-BB76-4442044B5BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD98E15-291A-4D6F-BB76-4442044B5BB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
